@@ -6,7 +6,7 @@ app.get('/ads', (request, response) => {
     { "id": 1, name: "Anuncio primero" },
     { "id": 2, name: "Anuncio segundo" },
     { "id": 3, name: "Anuncio tercero" },
-    { "id": 4, name: "Anuncio cuarto" },
+   
   ])
 })
 
